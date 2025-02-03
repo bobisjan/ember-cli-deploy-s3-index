@@ -23,6 +23,7 @@
     "core-object": "^3.0.0",
     "ember-cli-deploy-plugin": "^0.2.9",
     "mime-types": "^2.1.27",
+    "proxy-agent": "^6.5.0",
     "rsvp": "^4.8.5"
   },
   "devDependencies": {
